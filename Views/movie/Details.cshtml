@@ -1,0 +1,13 @@
+﻿@model AspCoreFirstApp.Models.MovieCustomerViewModel
+
+<h2>@Model.Movie.Name</h2>
+
+<h3>Liste des clients :</h3>
+<ul>
+    @foreach (var customer in Model.Customers)
+    {
+        <li>@customer.Name</li>
+    }
+</ul>
+
+

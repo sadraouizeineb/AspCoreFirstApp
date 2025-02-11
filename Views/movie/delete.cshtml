@@ -1,0 +1,11 @@
+﻿@model AspCoreFirstApp.Models.Movie
+
+<h2>Delete Movie</h2>
+
+<p>Are you sure you want to delete the movie <strong>@Model.Name</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a href="@Url.Action("Index", "Movie")" class="btn btn-secondary">Cancel</a>
+</form>

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|c:\\users\\msi\\source\\aspcorefirstapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|c:\\users\\msi\\source\\aspcorefirstapp\\views\\movie\\edit2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|solutionrelative:views\\movie\\edit2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|c:\\users\\msi\\source\\aspcorefirstapp\\models\\moviecustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|solutionrelative:models\\moviecustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|c:\\users\\msi\\source\\aspcorefirstapp\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|solutionrelative:views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|c:\\users\\msi\\source\\aspcorefirstapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|c:\\users\\msi\\source\\aspcorefirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|c:\\users\\msi\\source\\aspcorefirstapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|c:\\users\\msi\\source\\aspcorefirstapp\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|solutionrelative:views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|c:\\users\\msi\\source\\aspcorefirstapp\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|solutionrelative:views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|c:\\users\\msi\\source\\aspcorefirstapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ECF6F09-3394-4EA3-B742-4966A944AD92}|ASPCoreFirstApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:47:53.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieCustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Models\\MovieCustomerViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\MovieCustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Models\\MovieCustomerViewModel.cs",
+              "RelativeToolTip": "Models\\MovieCustomerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:09:12.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Views\\movie\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\movie\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Views\\movie\\Details.cshtml",
+              "RelativeToolTip": "Views\\movie\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T16:13:17.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:07:30.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:48:37.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:44:27.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "edit2.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Views\\movie\\edit2.cshtml",
+              "RelativeDocumentMoniker": "Views\\movie\\edit2.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Views\\movie\\edit2.cshtml",
+              "RelativeToolTip": "Views\\movie\\edit2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T21:34:25.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Views\\movie\\delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\movie\\delete.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Views\\movie\\delete.cshtml",
+              "RelativeToolTip": "Views\\movie\\delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T21:35:23.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Views\\movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\movie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Views\\movie\\Index.cshtml",
+              "RelativeToolTip": "Views\\movie\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T15:54:53.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\ASPCoreFirstApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T18:35:56.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
